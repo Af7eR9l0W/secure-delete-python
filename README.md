@@ -4,6 +4,6 @@
 ## usage 
 ``sudo python3 secure_delete.py``
 or 
-``python3 secure_delete.py`` 
+``python3 secure_delete.py`` + ```/path/to/files/or_Folder```
 
 If you enter the path to a directory, it warns you before automatically deleting.
