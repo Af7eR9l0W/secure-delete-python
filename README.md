@@ -13,6 +13,6 @@
 
 or 
 
-``python3 secure_delete_color.py`` + ```/path/to/files/or_Folder```
+``python3 secure_delete_color.py`` 
 
 If you enter the path to a directory, it warns you before automatically deleting.
