@@ -1,5 +1,6 @@
 # secure-delete-python
 *made this for pentests to securely delete files and folders (with recursive protection)*
+*repo set to public because why not, maybe someone can use it*
 
 
 
